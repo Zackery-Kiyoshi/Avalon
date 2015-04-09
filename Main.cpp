@@ -86,12 +86,16 @@ void main() {
 	cout << "Printing your Status" << endl;
 	me.printStatus();
 
+	/*
+
 	Role custom("THE BOSS", "YEE", 0);
 	me.changeRole(custom);
 	me.changeLeader();
 	
 	cout << "Printing your Status" << endl;
 	me.printStatus();
+
+	//	*/
 
 	cout << endl;
 	system("Pause");
@@ -177,6 +181,10 @@ void main() {
 	cout << endl;
 
 	cout << "Print everyone status: "<< endl;
+	cout << "Print everyone status: " << endl;
+	cout << "Print everyone status: " << endl;
+	cout << "Print everyone status: " << endl;
+	cout << "Print everyone status: " << endl;
 
 	me.printStatus();
 	jeff.printStatus();
@@ -191,10 +199,6 @@ void main() {
 	system("Pause");
 
 }
-
-
-
-
 
 
 
